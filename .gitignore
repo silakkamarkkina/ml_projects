@@ -1,4 +1,5 @@
 MNIST/.ipynb_checkpoints/
 stock_predictions/.ipynb_checkpoints
-stock_prediction/.ipynb_checkpointss/
-all_stocks_5yr.csv
+stock_prediction/.ipynb_checkpoints/
+stock_prediction\.ipynb_checkpoints\
+stock_prediction/all_stocks_5yr.csv
